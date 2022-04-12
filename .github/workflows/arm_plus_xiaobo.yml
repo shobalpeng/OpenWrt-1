@@ -6,7 +6,7 @@
 # https://github.com/P3TERX
 #===============================================
 
-name: ARMv8_Plus OpenWrt
+name: arm_plus_xiaobo
 
 on:
   repository_dispatch:
